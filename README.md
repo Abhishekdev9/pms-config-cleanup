@@ -77,7 +77,7 @@ chmod +x cleanup-linux.sh
 
 ## After Cleanup
 
-1. Install or open the ** LR-PMS-Tracker 1.0.22**
+1. Install or open the **LR-PMS-Tracker 1.0.22**
 2. Login again
 3. Start tracking normally
 
