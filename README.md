@@ -41,13 +41,13 @@ You can run the cleanup script using either **Windows PowerShell** or **Command 
 ### Windows Powershell
 
 ```powershell
-curl https://raw.githubusercontent.com/Abhishekdev9/pms-config-cleanup/main/cleanup-windows.bat -o cleanup-windows.bat; .\cleanup-windows.bat 
+curl https://raw.githubusercontent.com/abhishekb-lr/pms-config-cleanup/main/cleanup-windows.bat -o cleanup-windows.bat; .\cleanup-windows.bat 
 ```
 
 ### Command Prompt (CMD)
 
 ```powershell
-curl -o cleanup-windows.bat https://raw.githubusercontent.com/Abhishekdev9/pms-config-cleanup/main/cleanup-windows.bat && cleanup-windows.bat
+curl -o cleanup-windows.bat https://raw.githubusercontent.com/abhishekb-lr/pms-config-cleanup/main/cleanup-windows.bat && cleanup-windows.bat
 ```
 
 
@@ -56,7 +56,7 @@ curl -o cleanup-windows.bat https://raw.githubusercontent.com/Abhishekdev9/pms-c
 Run the following commands in Terminal:
 
 ```bash
-curl -O https://raw.githubusercontent.com/Abhishekdev9/pms-config-cleanup/main/cleanup-mac.sh
+curl -O https://raw.githubusercontent.com/abhishekb-lr/pms-config-cleanup/main/cleanup-mac.sh
 chmod +x cleanup-mac.sh
 ./cleanup-mac.sh
 ```
@@ -68,7 +68,7 @@ chmod +x cleanup-mac.sh
 Run the following commands in Terminal:
 
 ```bash
-curl -O https://raw.githubusercontent.com/Abhishekdev9/pms-config-cleanup/main/cleanup-linux.sh
+curl -O https://raw.githubusercontent.com/abhishekb-lr/pms-config-cleanup/main/cleanup-linux.sh
 chmod +x cleanup-linux.sh
 ./cleanup-linux.sh
 ```
